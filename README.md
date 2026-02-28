@@ -47,15 +47,6 @@ I help brands build a digital presence that doesn't just look good, but **actual
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoClati&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoClati&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > *"I believe code and design should work together to create seamless journeys—from the first social media ad to the final click."*
