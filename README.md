@@ -18,9 +18,6 @@ I help brands build a digital presence that doesn't just look good, but **actual
   <a href="https://www.behance.net/gustavoclati">
     <img src="https://img.shields.io/badge/Behance-GustavoClati-1769ff?style=for-the-badge&logo=behance" />
   </a>
-  <a href="https://www.instagram.com/gustavoclati/">
-    <img src="https://img.shields.io/badge/Instagram-@gustavoclati-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
