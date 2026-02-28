@@ -1,58 +1,68 @@
-# Gustavo Clati
-### Full Stack Developer | Java & Angular Specialist
+# Hi 👋, I'm Gustavo Clati
 
-Estudante de Engenharia de Software focado no desenvolvimento de aplicações robustas e escaláveis. Especialista no ecossistema **Java/Spring** para o back-end e **Angular** para interfaces modernas e performáticas.
+🚀 **Computer Science Student @ UNIP | Full Stack Developer & UI/UX Designer** **Bridging the gap between high-performance code and strategic visual design.**
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### **Back-end & Core**
-- **Linguagens:** Java, TypeScript, SQL.
-- **Frameworks:** Spring Boot (Data, Security, Cloud), Hibernate.
-- **Banco de Dados:** PostgreSQL, MySQL, H2.
-- **Ferramentas:** Maven, JUnit 5, Mockito.
-
-### **Front-end & UX**
-- **Frameworks:** Angular (v2+), RxJS, Service Workers.
-- **Styling:** Tailwind CSS, Bootstrap, Sass.
-- **Consumo de API:** RESTful Services, Axios.
-
-### **DevOps & Workspace**
-- **Infra:** Docker, Git/GitHub, GitHub Actions.
-- **Ambiente:** Linux (Ubuntu/Debian), IntelliJ IDEA, VS Code.
+I help brands build a digital presence that doesn't just look good, but **actually converts**. Currently, I work as a Marketing Intern in the food industry, mastering the intersection of Design (Adobe Suite) and E-commerce (Mercado Livre) to understand the full user journey.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoClati&show_icons=true&theme=transparent&title_color=0078D4&icon_color=0078D4&text_color=ffffff&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoClati&layout=compact&theme=transparent&title_color=0078D4&text_color=ffffff&hide_border=true" />
-</p>
-
----
-
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gustavo-clati-380315212/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gustavo.clati@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
   <a href="https://github.com/GustavoClati">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-GustavoClati-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavoclati/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gustavo_Clati-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.behance.net/gustavoclati">
+    <img src="https://img.shields.io/badge/Behance-GustavoClati-1769ff?style=for-the-badge&logo=behance" />
+  </a>
+  <a href="https://www.instagram.com/gustavoclati/">
+    <img src="https://img.shields.io/badge/Instagram-@gustavoclati-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 Filosofia de Desenvolvimento
+## 🧠 What I bring to the table
 
-> "Construir software não é apenas escrever código, é arquitetar soluções que sejam sustentáveis, testáveis e que gerem valor real ao usuário final."
+* **💻 Development:** Building clean, responsive, and SEO-friendly websites using **HTML, CSS, and JavaScript**.
+* **🎨 UI/UX Design:** Creating intuitive interfaces in **Figma** focused on user retention and branding.
+* **📈 Marketing & E-commerce:** Crafting visual assets for high-conversion campaigns and managing marketplace performance (**Mercado Livre**).
+* **🎯 Results-Driven:** Delivering digital experiences that are intuitive, engaging, and focused on the final checkout.
 
 ---
 
-*Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios ou entrar em contato para colaborações.*
+## 🛠️ Tech Stack
+
+### Development & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+### Design & Creative
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Mercado Livre](https://img.shields.io/badge/Mercado_Livre-FFE600?style=for-the-badge&logo=mercadolibre&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoClati&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoClati&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> *"I believe code and design should work together to create seamless journeys—from the first social media ad to the final click."*
+
+---
+
+⭐ **Let’s build something great together!** Whether it's a freelance project for a global brand or a complex web application.
