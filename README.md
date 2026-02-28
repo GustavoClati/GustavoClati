@@ -1,82 +1,58 @@
-# Hi 👋, I'm Gustavo Clati
+# Gustavo Clati
+### Full Stack Developer | Java & Angular Specialist
 
-🚀 **Software Engineer | Java, Spring Boot & Angular Specialist** 🇧🇷 Brazil
-
-I specialize in building **robust back-end architectures** and **dynamic, responsive front-end interfaces**.  
-My focus is on creating **scalable enterprise solutions** using modern DevOps practices and clean, maintainable code.
-
-I’m passionate about solving complex logic puzzles and optimizing database performance.
+Estudante de Engenharia de Software focado no desenvolvimento de aplicações robustas e escaláveis. Especialista no ecossistema **Java/Spring** para o back-end e **Angular** para interfaces modernas e performáticas.
 
 ---
 
-## 🌐 Where to find me
+## 🛠️ Tecnologias & Ferramentas
+
+### **Back-end & Core**
+- **Linguagens:** Java, TypeScript, SQL.
+- **Frameworks:** Spring Boot (Data, Security, Cloud), Hibernate.
+- **Banco de Dados:** PostgreSQL, MySQL, H2.
+- **Ferramentas:** Maven, JUnit 5, Mockito.
+
+### **Front-end & UX**
+- **Frameworks:** Angular (v2+), RxJS, Service Workers.
+- **Styling:** Tailwind CSS, Bootstrap, Sass.
+- **Consumo de API:** RESTful Services, Axios.
+
+### **DevOps & Workspace**
+- **Infra:** Docker, Git/GitHub, GitHub Actions.
+- **Ambiente:** Linux (Ubuntu/Debian), IntelliJ IDEA, VS Code.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoClati&show_icons=true&theme=transparent&title_color=0078D4&icon_color=0078D4&text_color=ffffff&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoClati&layout=compact&theme=transparent&title_color=0078D4&text_color=ffffff&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://github.com/GustavoClati">
-    <img src="https://img.shields.io/badge/GitHub-GustavoClati-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/gustavo-clati-380315212/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Clati-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gustavo.clati@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://github.com/GustavoClati">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 What I do
+## 🧠 Filosofia de Desenvolvimento
 
--   🏗️ Microservices & Monolithic Architectures
--   ⚡ Back-end optimization with Java & Spring Ecosystem
--   🧩 Component-based UI development with Angular
--   🔐 Identity management & Security (OIDC, JWT)
--   🗄️ Relational database design & optimization
--   📦 Containerization & CI/CD Pipelines
--   🛠️ Unit and Integration Testing (JUnit, Mockito)
+> "Construir software não é apenas escrever código, é arquitetar soluções que sejam sustentáveis, testáveis e que gerem valor real ao usuário final."
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoClati&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoClati&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Philosophy
-
-> _"Complexity is the enemy of execution. I strive to write code that is as simple as possible, but as powerful as it needs to be."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations on Java/Angular projects!
+*Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios ou entrar em contato para colaborações.*
